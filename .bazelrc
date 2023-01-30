@@ -1,0 +1,2 @@
+# rules_rust is broken, we need to set the channel manually
+build --@rules_rust//rust/toolchain/channel=nightly
